@@ -1,5 +1,5 @@
 # Movie-Retrieval-Project--Python
-•  Developed a Python script that interacts with a movie API, inputing movie titles and retrieves data with the help of requests library
+•  Developed a Python script that interacts with a movie API, inputting movie titles and retrieving data with the help of requests library
 
 •  Leveraged the usage of the movie API to access and extract information, including title, release year, directors, genre, and a plot summary
 
